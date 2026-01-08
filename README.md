@@ -4,6 +4,7 @@ Simple Todo List web app with Node.js, Express, SQLite, HTML, CSS, and JS
 Backend API exposed using ngrok:
 https://semicrystalline-roselyn-nonvisible.ngrok-free.dev
 > Note: This link is temporary and may expire when the server stops.
-<img width="1920" height="1080" alt="Screenshot (284)" src="https://github.com/user-attachments/assets/c2d9b6e2-b9ff-4d63-ae03-2e9d3973fd20" />
+<img width="1920" height="1080" alt="Screenshot (285)" src="https://github.com/user-attachments/assets/af96a15b-7eec-4a81-a154-1a4d39f69718" />
+
 
 
